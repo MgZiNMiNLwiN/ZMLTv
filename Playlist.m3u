@@ -180,8 +180,11 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT1
-
+https://d3mp6v8e8zf0uc.cloudfront.net/out/v1/1ed4530424ba40f39ee600a8e78c2129/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
+https://d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT3
+https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index_3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.jpg" group-title="VIP Sports",SKYNET SPORT2
@@ -266,11 +269,11 @@ http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAut
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="VIP Sports",RMC SPORT1
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDM6MzAgUE0maGFzaF92YWx1ZT04U3BjTGdlaUc5c2s3YnpnQmdRUVpnPT0mdmFsaWRtaW51dGVzPTIw
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/137000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="VIP Sports",RMC SPORT2
-http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDM6NTcgUE0maGFzaF92YWx1ZT1uVC9vemtpWDQ2d1hSZUN6OE0yRDV3PT0mdmFsaWRtaW51dGVzPTIw
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/138/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="VIP Sports",RMC SPORT3
-http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDQ6MTYgUE0maGFzaF92YWx1ZT1oWmZJd1oxc3FmeXMwTXZ3aDZZa3V3PT0mdmFsaWRtaW51dGVzPTIw
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/139/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="VIP Sports",SKYSPORT 1
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6Mjk6NDggQU0maGFzaF92YWx1ZT1FT1VCWlk0VXJHMmxuSHBLelBBbi9nPT0mdmFsaWRtaW51dGVzPTIw
@@ -363,26 +366,26 @@ https://mgzinminlwin.github.io/360p/bein7.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="BeinSport",BeinSport 12SD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BeinSport",Bein Premium-1HD
-https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8
+http://2.anfalrou.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BeinSport",Bein Premium-2HD
-https://mgzinminlwin.github.io/720p/pm-Bein2.m3u8
+http://2.anfalrou.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BeinSport",Bein Premium-3HD
-https://mgzinminlwin.github.io/720p/pm-Bein3.m3u8
+http://2.anfalrou.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png" group-title="BeinSport",BeinSport 1HD
-https://mgzinminlwin.github.io/720p/Bein1.m3u8
+http://2.anfalrou.xyz/live/918454578/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png" group-title="BeinSport",BeinSport 2HD
-https://mgzinminlwin.github.io/720p/Bein2.m3u8
+http://2.anfalrou.xyz/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="BeinSport",BeinSport 3HD
-https://mgzinminlwin.github.io/720p/Bein3.m3u8
+http://2.anfalrou.xyz/live/645587700/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="BeinSport",BeinSport 4HD
-https://mgzinminlwin.github.io/720p/Bein4.m3u8
+http://2.anfalrou.xyz/live/9787488847/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="BeinSport",BeinSport 5HD
-https://mgzinminlwin.github.io/720p/Bein5.m3u8
+http://2.anfalrou.xyz/live/610303030/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="BeinSport",BeinSport 6HD
-https://mgzinminlwin.github.io/720p/Bein6.m3u8
+http://2.anfalrou.xyz/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="BeinSport",BeinSport 7HD
-https://mgzinminlwin.github.io/720p/Bein7.m3u8
+http://2.anfalrou.xyz/live/791001144/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="BeinSport",BeinSport 8HD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png" group-title="BeinSport",BeinSport 9HD
