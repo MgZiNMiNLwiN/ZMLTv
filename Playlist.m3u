@@ -180,9 +180,9 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT1
-https://d3mp6v8e8zf0uc.cloudfront.net/out/v1/1ed4530424ba40f39ee600a8e78c2129/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
 https://d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
+https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT3
 https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index_3.m3u8
 
