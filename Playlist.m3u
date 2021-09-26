@@ -98,12 +98,13 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDc6NDQgQU0maGFzaF92YWx1ZT1mTnM5YU93ZmtwZUJNcDhTdFhKbHhBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport1.png",True Sport HD1
-http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport2.png",True Sport HD2
-http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport3.png",True Sport HD3
-http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.img07.xyz/assets/img/ch_logo/hd-tsport4.png",True Sport HD4
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="Sports",SCTV
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -180,11 +181,11 @@ https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 SD
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 HD
-http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 HD
-http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League3 HD
-http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="VIP Sports",ASTRO SUPERSPORTS 1
@@ -197,15 +198,15 @@ http://iptv.tvmalaysia.cc/624850/624850/6711
 http://iptv.tvmalaysia.cc/624850/624850/6712
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="VIP Sports",SPORT TV1
-http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="VIP Sports",SPORT TV2
-http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="VIP Sports",SPORT TV3
-http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="VIP Sports",SPORT TV4
-http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="VIP Sports",SPORT TV5
-http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="VIP Sports",Skysporrt Football
 http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDI6MDY6MzMgUE0maGFzaF92YWx1ZT1WaFBmZXplc3JsSmNDcDJwZnltY3NnPT0mdmFsaWRtaW51dGVzPTIw
