@@ -97,6 +97,10 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238e
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="VIP Sports",LaLiga Live
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2021/05/ligue-1-uber-eats-logo-vector.png" group-title="VIP Sports",Ligue1 Live
+http://31.220.41.88:8081/live/es-bein.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NDc6NDQgQU0maGFzaF92YWx1ZT1mTnM5YU93ZmtwZUJNcDhTdFhKbHhBPT0mdmFsaWRtaW51dGVzPTIw
@@ -168,22 +172,21 @@ https://d21m93qjum1cej.cloudfront.net/out/v1/c7b4ba78ca374ce0bf3b2d2ca05f09ee/in
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT4
 https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="VIP Sports",LaLiga Live
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2021/05/ligue-1-uber-eats-logo-vector.png" group-title="VIP Sports",Ligue1 Live
-http://31.220.41.88:8081/live/es-bein.stream/playlist.m3u8
-
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",Thai Bein 1HD
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="VIP Sports",Thai Bein 2HD
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 
+#EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://menafn.com/updates/pr/2020-12/17/GT_0077ba11-2image_story.jpg" group-title="VIP Sports",EPL Bein 1HD
+https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://menafn.com/updates/pr/2020-12/17/GT_0077ba11-2image_story.jpg" group-title="VIP Sports",EPL Bein 2HD
+https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 SD
 https://smart-tv.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="VIP Sports",Premier League2 SD
 https://smart-tv.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League2 SD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="VIP Sports",Premier League3 SD
 https://smart-tv.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="VIP Sports",Premier League1 HD
