@@ -99,6 +99,8 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="VIP Sports",LaLiga Live
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/27-277817_sky-sport-4-png-png-download-bundesliga-logo.png" group-title="VIP Sports",Bundesliga Live
+http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2021/05/ligue-1-uber-eats-logo-vector.png" group-title="VIP Sports",Ligue1 Live
 http://31.220.41.88:8081/live/es-bein.stream/playlist.m3u8
 
