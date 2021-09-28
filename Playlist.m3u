@@ -166,7 +166,7 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT1
-https://d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index_3.m3u8
+https://manifest-gce-us-east4-production.cfcdn.mux.com/i9MxHSwVnuTrZwY7H85gDd02E5aN9NSMJhbA1IjAJeNTrDWCUWYUuZJ2K8dJinAmqWygHMdYlBBb00g502nNMl5BGWp9ZkQ4MVb/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1633449600&live=1&skid=default&signature=NjE1Yzc2ODBfODJhNjEzZDdhNGFiMDdkMjhjZjc2YjFjNjNiNTNiYjMwMjQyYmVkNWU0ZDc5MTlmYjE3MTQ1ZWYzNWM5MTQwMw==
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
 https://dny46juluzalr.cloudfront.net/out/v1/cfad154d97484db5bb41654794f7ddbb/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT3
