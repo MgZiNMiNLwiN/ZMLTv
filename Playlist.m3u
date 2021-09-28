@@ -97,11 +97,11 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238e
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="VIP Sports",LaLiga Live
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2018/10/Spanish-La-Liga-logo.png" group-title="Sports",LaLiga Live
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_2.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/27-277817_sky-sport-4-png-png-download-bundesliga-logo.png" group-title="VIP Sports",Bundesliga Live
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/27-277817_sky-sport-4-png-png-download-bundesliga-logo.png" group-title="Sports",Bundesliga Live
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2021/05/ligue-1-uber-eats-logo-vector.png" group-title="VIP Sports",Ligue1 Live
+#EXTINF:-1 tvg-logo="https://getlogovector.com/wp-content/uploads/2021/05/ligue-1-uber-eats-logo-vector.png" group-title="Sports",Ligue1 Live
 http://31.220.41.88:8081/live/es-bein.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN HD
@@ -166,15 +166,15 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT1
-https://sos.moukrasa.xyz/live/88824257/index.m3u8
+https://d1s66esfgtawro.cloudfront.net/out/v1/34f06e70b3334f51afad0d06d7e88ae5/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT2
 https://duq715j8eav4e.cloudfront.net/out/v1/b4b578ad77e0468c9ee47ac73b2b4fc0/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT3
-https://d1urti526tpkii.cloudfront.net/out/v1/8e343f42dc094785bc51cad39e8d133e/index_1.m3u8
+https://d1urti526tpkii.cloudfront.net/out/v1/8e343f42dc094785bc51cad39e8d133e/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT4
-https://sos.moukrasa.xyz/live/9962564400/index.m3u8
+https://d1ylwdjp3ejgzs.cloudfront.net/out/v1/67ae51a3b3de4653a75ce00b675d1f9a/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/ZMLTv.png" group-title="VIP Sports",ZMLTv SPORT5
-https://sos.moukrasa.xyz/live/880025552/index.m3u8
+https://dl9shgxyr5ah6.cloudfront.net/out/v1/ddf299570bda41fea428c3eb5a6e1640/index_3.m3u8
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",Thai Bein 1HD
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
